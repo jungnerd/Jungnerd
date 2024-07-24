@@ -1,6 +1,11 @@
-### 👨🏻‍💻 Introduction
-안녕하세요! AI와 DL에 관심이 많아 관련 내용들을 열심히 공부하고 있습니다.  
-배우면 배울수록 너무 재밌어요 😆 새로운 것들을 많이 배우고 싶습니다! 🔥     
+## Hey 👋
+
+I'm Woojun Jung, a Artificial Intelligence enthusiast from South Korea 🇰🇷, currently studying for a Master's degree in AI.
+
+I'm especially interested in:
+- 👯‍♂️ Multimodal Models
+- 📹 Video Processing
+- 👷 Applied AI 
 
    
 ---
