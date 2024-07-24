@@ -1,8 +1,8 @@
-## Hey 👋
+## Good to See you 👋
 
 I'm Woojun Jung, a Artificial Intelligence enthusiast from South Korea 🇰🇷, currently studying for a Master's degree in AI.
 
-I'm especially interested in:
+My primary interests are:
 - 👯‍♂️ Multimodal Models
 - 📹 Video Processing
 - 👷 Applied AI 
