@@ -1,4 +1,4 @@
-## Good to See you 👋
+## Good to See You 👋
 
 I'm Woojun Jung, a Artificial Intelligence enthusiast from South Korea 🇰🇷, currently studying for a Master's degree in AI.
 
