@@ -3,8 +3,8 @@
 I'm Woojun Jung, a Artificial Intelligence enthusiast from South Korea 🇰🇷, currently studying for a Master's degree in AI.
 
 My primary interests are:
-- 👯‍♂️ Multimodal Models
-- 📹 Video Processing
+- 👯‍♂️ Multimodal
+- 📹 Video Understanding
 - 👷 Applied AI 
 
    
