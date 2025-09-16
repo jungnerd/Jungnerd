@@ -5,7 +5,8 @@ I'm Woojun Jung, a Artificial Intelligence enthusiast from South Korea 🇰🇷,
 My primary interests are:
 - 📹 Video Understanding
 - 👯‍♂️ Multimodal
-- 👷 Applied AI 
+- 👷 Applied AI
+- 🤗 Hugging Face
 
    
 
